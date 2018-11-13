@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkBot4", "ArkBot4\ArkBot4.csproj", "{08C695A8-BC37-4D54-85C5-1DA31462861D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomansRconClientCore", "..\RomansRconClientCore\RomansRconClientCore\RomansRconClientCore.csproj", "{08807348-DD01-4D8C-9BCF-31F8B449349A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordBotFrame", "..\DiscordBotFrame\DiscordBotFrame\DiscordBotFrame.csproj", "{67D92BB9-1044-40C2-8488-67C27EB274CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C695A8-BC37-4D54-85C5-1DA31462861D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C695A8-BC37-4D54-85C5-1DA31462861D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C695A8-BC37-4D54-85C5-1DA31462861D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C695A8-BC37-4D54-85C5-1DA31462861D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08807348-DD01-4D8C-9BCF-31F8B449349A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08807348-DD01-4D8C-9BCF-31F8B449349A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08807348-DD01-4D8C-9BCF-31F8B449349A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08807348-DD01-4D8C-9BCF-31F8B449349A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67D92BB9-1044-40C2-8488-67C27EB274CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D92BB9-1044-40C2-8488-67C27EB274CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D92BB9-1044-40C2-8488-67C27EB274CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D92BB9-1044-40C2-8488-67C27EB274CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56AB50D6-FED1-4213-9E59-FF5F0CFD0EF2}
+	EndGlobalSection
+EndGlobal

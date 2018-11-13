@@ -1,0 +1,8 @@
+C:\Users\Roman\source\repos\ArkBot4\ArkBot4\bin\Debug\netcoreapp2.1\ArkBot4.deps.json
+C:\Users\Roman\source\repos\ArkBot4\ArkBot4\bin\Debug\netcoreapp2.1\ArkBot4.runtimeconfig.json
+C:\Users\Roman\source\repos\ArkBot4\ArkBot4\bin\Debug\netcoreapp2.1\ArkBot4.runtimeconfig.dev.json
+C:\Users\Roman\source\repos\ArkBot4\ArkBot4\bin\Debug\netcoreapp2.1\ArkBot4.dll
+C:\Users\Roman\source\repos\ArkBot4\ArkBot4\obj\Debug\netcoreapp2.1\ArkBot4.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\ArkBot4\ArkBot4\obj\Debug\netcoreapp2.1\ArkBot4.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\ArkBot4\ArkBot4\obj\Debug\netcoreapp2.1\ArkBot4.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\ArkBot4\ArkBot4\obj\Debug\netcoreapp2.1\ArkBot4.AssemblyInfo.cs
